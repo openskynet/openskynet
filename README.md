@@ -1,0 +1,4 @@
+openskynet
+==========
+
+Main OpenSkynet codebase
